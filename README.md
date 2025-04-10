@@ -32,8 +32,8 @@ CRUD 功能完整的 Todo-List
 ### 1. Clone 專案
 
 ```bash
-git clone https://github.com/S4chan/AC-todoList.git
-cd AC-todoList
+git clone https://github.com/S4chan/todoList.git
+cd todoList
 ```
 
 ### 2. 安裝所需套件
