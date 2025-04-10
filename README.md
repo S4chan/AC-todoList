@@ -1,6 +1,6 @@
 # Todo List X MVC with React
 
-AC 指標作業 CRUD 功能完整的 Todo-List
+CRUD 功能完整的 Todo-List
 
 ## Preview
 
